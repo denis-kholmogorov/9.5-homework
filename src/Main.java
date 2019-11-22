@@ -12,19 +12,26 @@ public class Main
 
     public static void main(String[] args)
     {
-        for(;;){
+        for(;;)
+        {
             System.out.println("Введите путь файла. Пример: home/user/Рабочий стол ");
-            try {
+            try
+            {
                 Scanner scanner = new Scanner(System.in);
                 String path = scanner.nextLine();
                 File folder = new File(path);
-                if(folder.exists()){
+                if(folder.exists())
+                {
                     openFolder(folder);
-                }else {
+                }
+                else
+                {
                     throw new FileNotFoundException("Файл не найден, повторите попытку");
                 }
 
-            } catch (FileNotFoundException ex) {
+            }
+            catch (FileNotFoundException ex)
+            {
                 System.out.println(ex.getMessage());
                 continue;
             }
@@ -37,18 +44,21 @@ public class Main
         }
     }
 
-    public static void countBytesOfFile(File file){
+    public static void countBytesOfFile(File file)
+    {
         weigth += file.length();
     }
 
-    public static void openFolder(File folder){
+    public static void openFolder(File folder)
+    {
         File[] files = folder.listFiles();
         for(File file : files){
             if(file.isFile())
             {
                 countBytesOfFile(file);
             }
-            else {
+            else
+            {
                 openFolder(file);
             }
         }

@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66be407b-9e64-44e1-9b2c-c5e3aa912ed5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/9.5 homework/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/9.5 homework/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,38 +75,46 @@
       <option name="project" value="LOCAL" />
       <updated>1574332914528</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="version 1.1">
+      <created>1574418878857</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574418878857</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="version 1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="version 1.0" />
+    <MESSAGE value="version 1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="version 1.1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="487" y="108" width="697" height="800" key="CommitChangelistDialog2" timestamp="1574332914347">
+    <state x="487" y="108" width="697" height="800" key="CommitChangelistDialog2" timestamp="1574418876482">
       <screen x="0" y="0" width="1680" height="1021" />
     </state>
-    <state x="487" y="108" width="697" height="800" key="CommitChangelistDialog2/0.0.1680.1021@0.0.1680.1021" timestamp="1574332914347" />
+    <state x="487" y="108" width="697" height="800" key="CommitChangelistDialog2/0.0.1680.1021@0.0.1680.1021" timestamp="1574418876482" />
     <state x="623" y="269" width="426" height="479" key="FileChooserDialogImpl" timestamp="1574414865164">
       <screen x="0" y="0" width="1680" height="1021" />
     </state>
     <state x="623" y="269" width="426" height="479" key="FileChooserDialogImpl/0.0.1680.1021@0.0.1680.1021" timestamp="1574414865164" />
-    <state width="1634" height="305" key="GridCell.Tab.0.bottom" timestamp="1574418755891">
+    <state width="1634" height="305" key="GridCell.Tab.0.bottom" timestamp="1574418880753">
       <screen x="0" y="0" width="1680" height="1021" />
     </state>
-    <state width="1634" height="305" key="GridCell.Tab.0.bottom/0.0.1680.1021@0.0.1680.1021" timestamp="1574418755891" />
-    <state width="1634" height="305" key="GridCell.Tab.0.center" timestamp="1574418755890">
+    <state width="1634" height="305" key="GridCell.Tab.0.bottom/0.0.1680.1021@0.0.1680.1021" timestamp="1574418880753" />
+    <state width="1634" height="305" key="GridCell.Tab.0.center" timestamp="1574418880752">
       <screen x="0" y="0" width="1680" height="1021" />
     </state>
-    <state width="1634" height="305" key="GridCell.Tab.0.center/0.0.1680.1021@0.0.1680.1021" timestamp="1574418755890" />
-    <state width="1634" height="305" key="GridCell.Tab.0.left" timestamp="1574418755885">
+    <state width="1634" height="305" key="GridCell.Tab.0.center/0.0.1680.1021@0.0.1680.1021" timestamp="1574418880752" />
+    <state width="1634" height="305" key="GridCell.Tab.0.left" timestamp="1574418880751">
       <screen x="0" y="0" width="1680" height="1021" />
     </state>
-    <state width="1634" height="305" key="GridCell.Tab.0.left/0.0.1680.1021@0.0.1680.1021" timestamp="1574418755885" />
-    <state width="1634" height="305" key="GridCell.Tab.0.right" timestamp="1574418755891">
+    <state width="1634" height="305" key="GridCell.Tab.0.left/0.0.1680.1021@0.0.1680.1021" timestamp="1574418880751" />
+    <state width="1634" height="305" key="GridCell.Tab.0.right" timestamp="1574418880753">
       <screen x="0" y="0" width="1680" height="1021" />
     </state>
-    <state width="1634" height="305" key="GridCell.Tab.0.right/0.0.1680.1021@0.0.1680.1021" timestamp="1574418755891" />
+    <state width="1634" height="305" key="GridCell.Tab.0.right/0.0.1680.1021@0.0.1680.1021" timestamp="1574418880753" />
     <state width="1634" height="333" key="GridCell.Tab.1.bottom" timestamp="1574332974344">
       <screen x="0" y="0" width="1680" height="1021" />
     </state>
@@ -135,7 +141,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>17</line>
+          <line>19</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
